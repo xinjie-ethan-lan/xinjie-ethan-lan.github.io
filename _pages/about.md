@@ -1,11 +1,19 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Xinjie Lan"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+I am an assistant teaching professor in the Data to Knowledge Lab (abbr. [D2K Lab](https://d2k.rice.edu/about)), [Statistics Department](https://statistics.rice.edu/about), at Rice Unviersity.
+
+My research focuses on machin learning theory, computer vision, spatial-temporal forecasting.
+I mainly teach data science capstone course for both undergraduate and graduate students and  
+
+I obtained my Ph.D. from the Department of Electrical & Computing Engineering at the University of Delaware in 2022, under the supervison of Charles Black Evans Professor [Kenneth Barner](https://www.ece.udel.edu/people/faculty/barner/).
+
 
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
 
