@@ -24,7 +24,8 @@ author:
   # Biographic information
   avatar           : "XinjieLan.png"
   name             : "Xinjie Lan"
-  pronouns         : "he/him"  
+  pronouns         : "he/him,abc"  
+  chinesename      : "abc"
   bio              : "Assistant Teaching Professor"
   location         : "Houston"
   employer         : "Rice University"
@@ -219,9 +220,9 @@ collections:
   teaching:
     output: true
     permalink: /:collection/:path/
-  publications:
-    output: true
-    permalink: /:collection/:path/
+  #publications:
+  #  output: true
+  #  permalink: /:collection/:path/
   portfolio:
     output: true
     permalink: /:collection/:path/
