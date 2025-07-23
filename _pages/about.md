@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an assistant teaching professor in the Data to Knowledge Lab (abbr. [D2K Lab](https://d2k.rice.edu/about)), [Statistics Department](https://statistics.rice.edu/about), at Rice Unviersity.
+I am an assistant teaching professor in the [Data to Knowledge Lab](https://d2k.rice.edu/about) (abbr. D2K Lab), [Statistics Department](https://statistics.rice.edu/about), at Rice Unviersity.
 
 My research focuses on machin learning theory, computer vision, spatial-temporal forecasting.
 I mainly teach data science capstone course for both undergraduate and graduate students and  
