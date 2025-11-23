@@ -9,7 +9,7 @@ redirect_from:
 
 I am an assistant teaching professor in the [Data to Knowledge Lab](https://d2k.rice.edu/about) (abbr. D2K Lab), [Statistics Department](https://statistics.rice.edu/about), at Rice Unviersity. I obtained my Ph.D. from the Electrical & Computing Engineering (ECE) depeartment at the University of Delaware in 2022, under the supervison of Charles Black Evans Professor [Kenneth Barner](https://www.ece.udel.edu/people/faculty/barner/).
 
-My research focuses on machin learning theory, computer vision, spatial-temporal forecasting, eXplaianble AI (XAI).
+My research focuses on machin learning theory, eXplaianble AI (XAI), computer vision, spatial-temporal forecasting. My research philosophy is to empower AI by statistics. Specifically, I aim to promote AI by applying statistical theory to explain the behavior of AI models and optmize the performance of AI models in different applications
 
 I mainly teach data science capstone courses for both undergraduate and graduate students and statistical machine learning for graduate students.
 
